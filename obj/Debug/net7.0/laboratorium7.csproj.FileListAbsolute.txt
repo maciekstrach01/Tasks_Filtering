@@ -1,0 +1,45 @@
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\bin\Debug\net7.0\laboratorium7.exe
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\bin\Debug\net7.0\laboratorium7.deps.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\bin\Debug\net7.0\laboratorium7.runtimeconfig.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\bin\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\bin\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\refint\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\laboratorium7.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\obj\Debug\net7.0\ref\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\bin\Debug\net7.0\laboratorium7.exe
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\bin\Debug\net7.0\laboratorium7.deps.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\bin\Debug\net7.0\laboratorium7.runtimeconfig.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\bin\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\bin\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\refint\laboratorium7.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\laboratorium7.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\laboratorium7\zad1\obj\Debug\net7.0\ref\laboratorium7.dll
+C:\Users\Maciek\Desktop\task filtering\bin\Debug\net7.0\laboratorium7.exe
+C:\Users\Maciek\Desktop\task filtering\bin\Debug\net7.0\laboratorium7.deps.json
+C:\Users\Maciek\Desktop\task filtering\bin\Debug\net7.0\laboratorium7.runtimeconfig.json
+C:\Users\Maciek\Desktop\task filtering\bin\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\task filtering\bin\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.dll
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\refint\laboratorium7.dll
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.pdb
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\laboratorium7.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\task filtering\obj\Debug\net7.0\ref\laboratorium7.dll
